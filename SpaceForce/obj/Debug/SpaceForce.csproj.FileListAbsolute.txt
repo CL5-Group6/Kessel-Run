@@ -1,0 +1,6 @@
+C:\Users\micha\OneDrive\Desktop\SpaceGame\SpaceForce\bin\Debug\SpaceForce.exe.config
+C:\Users\micha\OneDrive\Desktop\SpaceGame\SpaceForce\bin\Debug\SpaceForce.exe
+C:\Users\micha\OneDrive\Desktop\SpaceGame\SpaceForce\bin\Debug\SpaceForce.pdb
+C:\Users\micha\OneDrive\Desktop\SpaceGame\SpaceForce\obj\Debug\SpaceForce.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\SpaceGame\SpaceForce\obj\Debug\SpaceForce.exe
+C:\Users\micha\OneDrive\Desktop\SpaceGame\SpaceForce\obj\Debug\SpaceForce.pdb
